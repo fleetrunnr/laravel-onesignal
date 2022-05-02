@@ -1,7 +1,7 @@
 {
-    "name": "laravel-notification-channels/onesignal-l9",
+    "name": "fleetrunnr/laravel-onesignal",
     "description": "OneSignal Notifications driver",
-    "homepage": "https://github.com/laravel-notification-channels/onesignal",
+    "homepage": "https://github.com/fleetrunnr/laravel-onesignal",
     "license": "MIT",
     "authors": [
         {
